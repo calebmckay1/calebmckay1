@@ -4,7 +4,7 @@
 
 I have a passion for data analysis and machine learning!
 
-- 🔭 I’m currently working on Bridges for prosperity.
+- 🔭 I’m currently working on Story Squad.
 - 💬 Ask me about anything.
 - 📫 How to reach me: cjmckay7@gmail.com
 - ⚡ Fun fact: I like to travel and jump off of cliffs... into water of course.
